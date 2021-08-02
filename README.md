@@ -27,11 +27,10 @@
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
-  <a href="https://github.com/othneildrew/Best-README-Template">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
+  <h1>:art:</h1>
   </a>
 
-  <h3 align="center">Paragon Painting Rails Project</h3>
+  <h3 align="center">:art:Paragon Painting Rails Project</h3>
 
   <p align="center">
     Customized project management, equipment & operations application for a waterproofing & painting company.
