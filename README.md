@@ -27,10 +27,8 @@
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
-  <h1>:art:</h1>
+  <h1 align="center">:art::art:Paragon Painting Rails Project</h1>
   </a>
-
-  <h3 align="center">:art:Paragon Painting Rails Project</h3>
 
   <p align="center">
     Customized project management, equipment & operations application for a waterproofing & painting company.
